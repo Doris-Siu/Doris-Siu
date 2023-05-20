@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 👩‍🏫 About me ... <br>
 🌻 A web developer with experience in building and maintaining high-quality web applications<br>
-🌻 Have a strong understanding of the full web development stack, from front-end development with HTML, CSS, and JavaScript to back-end development with Node.js, Express, and PSQL<br>
-🌻 Proficient in using Git and GitHub for version control and collaboration.
+🌻 Have a strong understanding of the full web development stack, from front-end development with HTML, CSS, JavaScript and React.js to back-end development with Node.js, Express, and PSQL<br>
+🌻 Proficient in using Git and GitHub for version control and collaboration<br>
+🌻 Other skills: Agile development, Scrum, Kanban, TDD
 
 
 <br><br>
