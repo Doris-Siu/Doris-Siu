@@ -16,27 +16,56 @@ Here are some ideas to get you started:
 -->
 
 👩‍🏫 About me ... 
+
+
 🌻 A web developer with experience in building and maintaining high-quality web applications
+
+
 🌻 Have a strong understanding of the full web development stack, from front-end development with HTML, CSS, and JavaScript to back-end development with Node.js, Express, and PSQL
+
+
 🌻 Proficient in using Git and GitHub for version control and collaboration.
 
 
 
+
+
+
 🔭 I’m currently working on ...
-Final project 👉 [I'm an inline-style link with title](https://github.com/Doris-Siu/in-a-class-of-our-own "In a Class of Our Own")
+
+
+Final project 👉 [In a Class of Our Own](https://github.com/Doris-Siu/in-a-class-of-our-own "In a Class of Our Own")
+
+
+
 
 
 
 🌱The place I share my passion ... 
-👉 [I'm an inline-style link with title](https://doris-techblog.vercel.app/ "Doris's tech blog") 
+
+
+👉 [Doris's tech blog](https://doris-techblog.vercel.app/ "Doris's tech blog") 
+
+
+
+
 
 
  💬 Ask me about ...
+ 
+ 
 Anything you want to know 🙂 
 
 
 
+
+
+
 📫 How to reach me ...
-💛 [I'm an inline-style link with title](https://www.linkedin.com/in/doris-siu/ "My LinkedIn")
+
+
+💛 [My LinkedIn](https://www.linkedin.com/in/doris-siu/ "My LinkedIn")
+
+
 💛 My Email 👉 doris.siu.my@gmail.com
 
