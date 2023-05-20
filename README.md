@@ -22,22 +22,22 @@ Here are some ideas to get you started:
 🌻 Other skills: Agile development, Scrum, Kanban, TDD
 
 
-<br><br>
+<br>
 ### **🔭 I’m currently working on ...**<br>
 Final project 👉 [In a Class of Our Own](https://github.com/Doris-Siu/in-a-class-of-our-own "In a Class of Our Own")
 
 
-<br><br>
+<br>
 ### **🌱The place I share my passion ...** <br>
-👉 [Doris's tech blog](https://doris-techblog.vercel.app/ "Doris's tech blog") 
+👉 [Doris's Tech Blog](https://doris-techblog.vercel.app/ "Doris's tech blog") 
 
 
-<br><br>
+<br>
 ### **💬 Ask me about ...**<br>
 Anything you want to know 🙂 
 
 
-<br><br>
+<br>
 ### **📫 How to reach me ...**<br>
 💛 [My LinkedIn](https://www.linkedin.com/in/doris-siu/ "My LinkedIn")<br>
 💛 My Email 👉 doris.siu.my@gmail.com
