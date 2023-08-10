@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 :star: OOP, SOLID
 <br><br>
 ### **:bowtie: Projects ...** <br>
- :sparkles: [Tech Blog](https://doris-techblog.vercel.app/ "Doris's tech blog")- using Nextjs13, Sanity CMS, Tailwind CSS, TypeScript 
+ :sparkles: [Tech Blog](https://github.com/Doris-Siu/doris-tech-blog "Doris's tech blog")- using Nextjs13, Sanity CMS, Tailwind CSS, TypeScript <br>
  :sparkles: [In a Class of Our Own](https://github.com/Doris-Siu/in-a-class-of-our-own "in-a-class-of-our-own")- using Reactjs, Nodejs, JavaScript, PSQL, OAuth
 <br><br>
 ### **🌱The place I share my passion ...** <br>
