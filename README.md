@@ -22,9 +22,15 @@ Here are some ideas to get you started:
 🌻 Other skills: Agile development, Scrum, Kanban, TDD
 <br><br>
 ### **🔭 I’m currently working on ...**<br>
-Final project 👉 [In a Class of Our Own](https://github.com/Doris-Siu/in-a-class-of-our-own "In a Class of Our Own")
+:star: C#, .NET<br>
+:star: OOP, SOLID
+<br><br>
+### **:bowtie: Projects ...** <br>
+ :sparkles: [Tech Blog](https://doris-techblog.vercel.app/ "Doris's tech blog")- using Nextjs13, Sanity CMS, Tailwind CSS, TypeScript 
+ :sparkles: [In a Class of Our Own](https://github.com/Doris-Siu/in-a-class-of-our-own "in-a-class-of-our-own")- using Reactjs, Nodejs, JavaScript, PSQL, OAuth
 <br><br>
 ### **🌱The place I share my passion ...** <br>
+Enjoy software development as I get satisfaction creating products which are useful and accessible to users<br>
 👉 [Doris's Tech Blog](https://doris-techblog.vercel.app/ "Doris's tech blog") 
 <br><br>
 ### **💬 Ask me about ...**<br>
