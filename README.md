@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <br><br>
 ### **🔭 I’m currently working on ...**<br>
 :star: C#, .NET<br>
+:star: [Blazor application](https://github.com/Doris-Siu/TangyBlazor") 
 :star: OOP, SOLID
 <br><br>
 ### **:bowtie: Projects ...** <br>
