@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 ### **🔭 I’m currently working on ...**<br>
 :star: C# .NET<br>
 :star: [Blazor application](https://github.com/Doris-Siu/TangyBlazor)- .NET 6 E-Commerce Web App with both Blazor server & WASM <br> 
+:star: Doris' portfolio- a visually appealing React web to showcase my skills & experience <br>
 :star: OOP, SOLID
 <br><br>
 ### **:bowtie: Projects ...** <br>
  :sparkles: [Tech Blog](https://github.com/Doris-Siu/doris-tech-blog "Doris's tech blog")- using Nextjs13, Sanity CMS, Tailwind CSS, TypeScript <br>
- :sparkles: [In a Class of Our Own](https://github.com/Doris-Siu/in-a-class-of-our-own "in-a-class-of-our-own")- using Reactjs, Nodejs, JavaScript, PSQL, OAuth
+ :sparkles: [In a Class of Our Own](https://github.com/Doris-Siu/in-a-class-of-our-own "in-a-class-of-our-own")- using Reactjs, Nodejs, JavaScript, Postgresql, OAuth
 <br><br>
 ### **🌱The place I share my passion ...** <br>
 Enjoy software development as I get satisfaction from creating products that are useful and accessible to users<br>
