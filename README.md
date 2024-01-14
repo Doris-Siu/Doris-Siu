@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 <br><br>
 ### **🔭 I’m currently working on ...**<br>
 :star: C# .NET<br>
-:star: [Blazor application](https://github.com/Doris-Siu/TangyBlazor)- .NET 6 E-Commerce Web App with both Blazor server & WASM <br> 
-:star: Doris' portfolio- a visually appealing React web app to showcase my skills & experience <br>
-:star: OOP, SOLID
-:star: [ASP.NET MVC](https://github.com/Doris-Siu/JokeApp)- .NET 6 ASP.NET MVC Web App
+:star: [Blazor] [.NET 6 E-Commerce Web App with both Blazor server & WASM](https://github.com/Doris-Siu/TangyBlazor) ✅<br> 
+:star: [ReactJS] Doris' portfolio- a visually appealing web app to showcase my skills & experience ✅<br>
+:star: [OOP] Gain a strong understanding of object-oriented programming concepts, and SOLID principles ✅<br>
+:star: [DSA] Gain a strong understanding of data structures ✅<br>
+:star: [ASP.NET MVC] [.NET 7 ASP.NET MVC Web App](https://github.com/Doris-Siu/JokeApp) ✅<br>
+:star: [DevOps] Expand knowledge of cloud computing concepts, networking fundamentals, and DevOps methodologies.
 <br><br>
 ### **:bowtie: Projects ...** <br>
  :sparkles: [Tech Blog](https://github.com/Doris-Siu/doris-tech-blog "Doris's tech blog")- using Nextjs13, Sanity CMS, Tailwind CSS, TypeScript <br>
