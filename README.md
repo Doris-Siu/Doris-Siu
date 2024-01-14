@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 ### **👩‍🏫 About me ...** <br>
 🌻 A full stack developer with experience in building and maintaining high-quality web applications<br>
-🌻 Have a strong understanding of the full web development stack, from front-end development with HTML, CSS, JavaScript, React.js and Blazor to back-end development with Node.js, Express.js, ASP.NET and Postgresql<br>
+🌻 Have a strong understanding of the full web development stack, from front-end development with HTML, CSS, JavaScript, React.js and Blazor to back-end development with Node.js, Express.js, ASP.NET MVC, Entity Framework, and Postgresql<br>
 🌻 Proficient in using Git and GitHub for version control and collaboration<br>
-🌻 Other skills: Agile development, Scrum, Kanban, TDD
+🌻 Other skills: Agile development, Scrum, Kanban, TDD, SOLID, OOP
 <br><br>
 ### **🔭 I’m currently working on ...**<br>
 :star: C# .NET<br>
 :star: [Blazor application](https://github.com/Doris-Siu/TangyBlazor)- .NET 6 E-Commerce Web App with both Blazor server & WASM <br> 
-:star: Doris' portfolio- a visually appealing React web to showcase my skills & experience <br>
+:star: Doris' portfolio- a visually appealing React web app to showcase my skills & experience <br>
 :star: OOP, SOLID
+:star: [ASP.NET MVC](https://github.com/Doris-Siu/JokeApp)- .NET 6 ASP.NET MVC Web App
 <br><br>
 ### **:bowtie: Projects ...** <br>
  :sparkles: [Tech Blog](https://github.com/Doris-Siu/doris-tech-blog "Doris's tech blog")- using Nextjs13, Sanity CMS, Tailwind CSS, TypeScript <br>
