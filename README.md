@@ -24,13 +24,15 @@ Here are some ideas to get you started:
 ### **🔭 I’m currently working on ...**<br>
 :star: C# .NET<br>
 :star: [Blazor] [.NET 6 E-Commerce Web App with both Blazor server & WASM](https://github.com/Doris-Siu/TangyBlazor) ✅<br> 
-:star: [ReactJS] Doris' portfolio- a visually appealing web app to showcase my skills & experience ✅<br>
+:star: [ReactJS] [Doris' portfolio] (https://doris-portfo.netlify.app/) - a visually appealing web app to showcase my skills & experience - continuous updates & maintenance ✅<br>
 :star: [OOP] Gain a strong understanding of object-oriented programming concepts, and SOLID principles ✅<br>
 :star: [DSA] Gain a strong understanding of data structures ✅<br>
 :star: [ASP.NET MVC] [.NET 7 ASP.NET MVC Web App](https://github.com/Doris-Siu/JokeApp) ✅<br>
 :star: [DevOps] Expand knowledge of cloud computing concepts, networking fundamentals, and DevOps methodologies.
 <br><br>
 ### **:bowtie: Projects ...** <br>
+ :sparkles: [.NET 6 E-Commerce Web App with both Blazor server & WASM](https://github.com/Doris-Siu/TangyBlazor) <br>
+ :sparkles: [ASP.NET MVC] [.NET 7 ASP.NET MVC Web App](https://github.com/Doris-Siu/JokeApp) <br>
  :sparkles: [Tech Blog](https://github.com/Doris-Siu/doris-tech-blog "Doris's tech blog")- using Nextjs13, Sanity CMS, Tailwind CSS, TypeScript <br>
  :sparkles: [In a Class of Our Own](https://github.com/Doris-Siu/in-a-class-of-our-own "in-a-class-of-our-own")- using Reactjs, Nodejs, JavaScript, Postgresql, OAuth
 <br><br>
